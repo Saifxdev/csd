@@ -1,0 +1,37 @@
+body{
+    background: -webkit-linear-gradient(rgb(236, 123, 172),rgb(87, 78, 78));
+    background-repeat: no-repeat;
+    background-size: contain; 
+}
+
+
+.div0{
+    height: 400px;
+    background-color: black;
+    border-radius: 20px;
+    border-color: white;
+    border-style: solid;
+}
+
+.div1{
+    margin-top: 20px;
+    display: flex;
+    position: sticky;
+}
+
+.div2{
+    height: 280px;
+    width: 280px;
+    margin-top: 30px;
+    margin-left: 50px; 
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: 10px;
+    padding-left: 19px;
+    border-radius: 20px;
+}
+
+.img{
+    height: 260px;
+    width: 260px;
+}
